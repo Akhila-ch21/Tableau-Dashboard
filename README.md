@@ -4,4 +4,8 @@
  
 - Loading Data source : 
  
-   - Cleaning with DataInterpretor
+ - Cleaning with DataInterpretor
+
+- Types of Connections:
+ -   Live 
+ -   Extract
