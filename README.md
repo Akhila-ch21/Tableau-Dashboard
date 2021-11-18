@@ -2,10 +2,10 @@
 
 ### Topics Covered: 
  
-# - Loading Data source : 
+ - Loading Data source : 
  
   - Cleaning with DataInterpretor
 
-# - Types of Connections:
+ - Types of Connections:
   -   Live 
   -   Extract
