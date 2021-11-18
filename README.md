@@ -18,6 +18,7 @@
   - Changing the Datatype of field
   - Splitting the column 
   - Hiding irrelevant columns from dataset
+  - How to highlight the visualization using different cards under Marks (Color, Size, Tool Tip, Detail)
   
 - Basic Charts:
   - Bar Chart
