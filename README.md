@@ -2,6 +2,6 @@
 
 ### Topics Covered: 
  
- - Loading Data source : 
+- Loading Data source : 
  
-    - Cleaning with DataInterpretor
+   - Cleaning with DataInterpretor
