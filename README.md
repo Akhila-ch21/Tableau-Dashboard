@@ -17,7 +17,7 @@
 - Data Formatting:
   - Changing the Datatype of field
   - Splitting the column 
-  - Hide the irrelevant columns from dataset
+  - Hiding irrelevant columns from dataset
   
 - Basic Charts:
 - 
